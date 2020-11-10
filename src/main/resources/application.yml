@@ -1,3 +1,5 @@
+server:
+  port: 8045
 wechat:
-  appId: appId
-  appSecret: appSecret
+  appId: wx22c16ac0c0f743c6
+  appSecret: 6bde6a1d1a4eb52fe32f983826e154f6
